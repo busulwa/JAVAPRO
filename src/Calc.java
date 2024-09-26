@@ -13,5 +13,6 @@ public class Calc {
         System.out.println("Enter second num");
         num2=calc.nextInt();
         result = num1 * num2;
+        System.out.println("The product is:\n" + result);
     }
 }
