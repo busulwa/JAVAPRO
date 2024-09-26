@@ -110,6 +110,7 @@ public class Main {
         System.out.println("Total total sales  = " + totalSale +"$\n with sales tax of 15.5$\n");
 
         Scanner calc= new Scanner(System.in);
+        System.out.println("scanner added");
 
     }
 }
